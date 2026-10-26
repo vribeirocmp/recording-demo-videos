@@ -58,7 +58,7 @@ Claude then writes the script with you, adapts the template to your app (selecto
 ### Option A — Claude Code plugin (recommended)
 
 ```text
-/plugin marketplace add vribeirocmp/recording-demo-videos
+/plugin marketplace add https://github.com/vribeirocmp/recording-demo-videos
 /plugin install recording-demo-videos@vribeirocmp
 ```
 
